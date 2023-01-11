@@ -1,4 +1,4 @@
-# README TESTE FRONT END ALISSON
+# README TESTE FRONT END REACT.JS
 
 Olá, venho através desse README trazer uma breve explicação do passo a passo para rodar o teste.
 
